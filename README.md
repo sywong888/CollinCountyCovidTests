@@ -1,5 +1,6 @@
 ## Collin County, Texas COVID-19 Tests
 Author: Sydney Wong
+
 Purpose: The purpose of this project was to practice creating graphical user interfaces with JavaFX. Through this project I was able to create a line graph with time-relevant data.
 
 This Java application plots the cumulative number of COVID-19 tests administered each day in a line graph.
